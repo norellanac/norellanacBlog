@@ -10,14 +10,10 @@
   <div class="card">
     
     <div class="card-body">
-      <h5 class="card-title">Estudios</h5>
-        <b>ESTUDIOS SUPERIORES</b><br>Informática | Sistemas<br />
-Nivel Alcanzado: Estudiante Universitario (3er Año)<br />
-Especialización: Ingeniería en Sistema de Información.<br />
-Guatemala / Universidad Mariano Gálvez de Guatemala / a la fecha. <br><br><br>
-<b>ESTUDIOS SECUNDARIOS </b>
-<p>Bachiller en Computación<br />
-Guatemala / Colegio La Salle, La Antigua Guatemala / 2011</p>
+      <h5 class="card-title">Contactar</h5>
+      Guatemala, San José Pínula</p>
+<p>Residenciales San José</p>
+<p><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1623.9605158759289!2d-90.40391953242916!3d14.51618772431278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8589bba65e067cef%3A0x11479b2f1585e542!2sCarr.+a+Residenciales+San+Jos%C3%A9%2C+San+Jos%C3%A9+Pinula!5e0!3m2!1ses!2sgt!4v1457895227141" width="100%" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
       <p class="card-text"><small class="text-muted">Actualizado en Agosto del 2018</small></p>
     </div>
   </div>  

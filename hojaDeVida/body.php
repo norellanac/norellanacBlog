@@ -1,6 +1,6 @@
 <ul class="nav nav-pills nav-fill">
   <li class="nav-item">
-    <button class="btn  btn-block btn-lg" type="button" data-toggle="collapse" data-target="#nery" aria-expanded="false" aria-controls="collapseExample">
+    <button class="btn  btn-block btn-lg" type="button" data-toggle="collapse" data-target="#nery" aria-expanded="true" aria-controls="collapseExample">
 Sobre Mi
 </button>
   </li>
@@ -18,7 +18,8 @@ Experiencia
 
 
 <?php 
-include 'card1.php';
 include 'cardHabilidades.php';
 include 'cardExperiencia.php';
+
+include 'sobreMiCard.php';
  ?>

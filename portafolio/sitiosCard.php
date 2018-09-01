@@ -1,21 +1,21 @@
-  <div class="bg-light">
+<!--  <div class="bg-light">
     <button class="btn  btn-block btn-lg" type="button" data-toggle="collapse" data-target="#paginasWeb" aria-expanded="false" aria-controls="collapseExample">
 Sitios Web
 </button>
-  </div>
+  </div>-->
 
 
 <div class="content-fluid" name="Panel1">
-  <div class="collapse text-center" id="paginasWeb">
+  <div class=" text-center" id="paginasWeb">
   <div class="card">
   <div class="card-header">
-    Nery Alexis Oellana
+    Proyectos Universitarios
   </div>
   <div class="card-group" id="">
   <div class="card " id="">
-    <img class=" img-fluid img-thumbnail " src="https://scontent.fgua2-1.fna.fbcdn.net/v/t1.0-9/33662647_1894097543936462_1588295484634562560_n.jpg?_nc_cat=0&oh=d87f1aa85ee97689e28e88390dee0c6b&oe=5BFC2F4F" alt="Card image cap">
+    <img class=" img-fluid img-thumbnail " src="img/aguaDulceVida.png" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Nery Alexis Orellana Cuy</h5>
+      <h5 class="card-title">Proyectos Universitarios</h5>
         Guatemala | (24 años)<br />
         <a href="mailto:alexis_oc@yahoo.es">alexis_oc@yahoo.es</a></p>
         <p class="invisible-xs hidden-">+502 33120413 | +502 56566856</p>
@@ -26,14 +26,14 @@ Sitios Web
     </div>
   </div>
   <div class="card">
-    <img class=" img-fluid img-thumbnail" src="https://4.bp.blogspot.com/-70WH-TTHyMc/WdVthZe_xYI/AAAAAAAADj4/PDnduSiypa4l3aWB4Ye2tpHDm2umrNV7QCLcBGAs/s1600/full%2Bstack%2Bdevelopment%2Bvenn.jpg" alt="Card image cap">
+    <img class=" img-fluid img-thumbnail" src="img/preguntadevs.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Habilidades</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p><p class="card-text"><small class="text-muted">Actualizado en Agosto del 2018</small></p>
     </div>
   </div>
   <div class="card">
-    <img class=" img-fluid img-thumbnail" src="http://cdn.instantshift.com/media/uploads/2015/07/efficient-web-developer-skills.png" alt="Card image cap">
+    <img class=" img-fluid img-thumbnail" src="img/expresionesRegularesOnline.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Poyectos</h5>
 
