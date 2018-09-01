@@ -1,5 +1,5 @@
 <ul class="nav nav-pills nav-fill">
-  <li class="nav-item">
+<!--  <li class="nav-item">
     <button class="btn  btn-block btn-lg" type="button" data-toggle="collapse" data-target="#appsWeb" aria-expanded="false" aria-controls="collapseExample">
 Aplicaiciónes Web
 </button>
@@ -8,7 +8,7 @@ Aplicaiciónes Web
     <button class="btn  btn-block btn-lg" type="button" data-toggle="collapse" data-target="#php" aria-expanded="false" aria-controls="collapseExample">
 Aplicaiciónes PHP
 </button>
-  </li>
+  </li> -->
   <li class="nav-item">
     <button class="btn  btn-block btn-lg" type="button" data-toggle="collapse" data-target="#paginasWeb" aria-expanded="false" aria-controls="collapseExample">
 Sitios Web
@@ -19,8 +19,8 @@ Sitios Web
 
 
 <?php 
-include 'appWebCard.php';
-include 'phpCard.php';
+//include 'appWebCard.php';
+//include 'phpCard.php';
 include 'sitiosCard.php';
 
  ?>

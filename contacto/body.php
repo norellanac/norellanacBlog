@@ -26,17 +26,52 @@
   </div>
   
 <!--  ++++++++++++++++++++++++-->
+
   <div class="card">
     <div class="card-body">
-      <h5 class="card-title">Contacto</h5>
+      <h5 class="card-title"></h5>
+      <ul class="list-group text-center">
+        <a href="https://github.com/naorellana" target="_blank"><li class="list-group-item justify-content-between align-items-center">
+          Github
+          <span class="navbar-brand">
+          <img src="img/logos/github.png" width="30" height="30" alt="">
+        </span>
+        </li></a>
+        <a href="https://m.facebook.com/alexis.orellana2" target="_blank"><li class="list-group-item justify-content-between align-items-center">
+          Facebook
+          <span class="navbar-brand">
+          <img src="img/logos/facebook.png" width="30" height="30" alt="">
+        </span>
+        </li></a>
+        <a href="https://www.instagram.com/norellanac/" target="_blank"><li class="list-group-item justify-content-between align-items-center">
+          Instagram
+          <span class="navbar-brand">
+          <img src="img/logos/instagram.png" width="30" height="30" alt="">
+        </span>
+        </li></a>
+        <a href="https://www.linkedin.com/in/nery-alexis-orellana-cuy-3612888b/" target="_blank"><li class="list-group-item justify-content-between align-items-center">
+          Linkedin
+          <span class="navbar-brand">
+          <img src="img/logos/linkedin.png" width="30" height="30" alt="">
+        </span>
+        </li></a>
+        <a href="mailto:alexis_oc@yahoo.es" target="_blank"><li class="list-group-item justify-content-between align-items-center">
 
-        Guatemala | (24 años)<br />
-        <a href="mailto:alexis_oc@yahoo.es">alexis_oc@yahoo.es</a></p>
-        <p class="invisible-xs hidden-">+502 33120413 | +502 56566856</p>
-        <p><a class="btn btn-primary visible-xs col-md-8" href="tel://+50233120413"> 33120413</a><br />
-        Vehículo: Sí | Licencia: Sí</p>
-        <p><a href="http://blog.norellanac.dx.am/wp-content/uploads/2017/07/cv-norellana.pdf"><strong>Descargar Hoja De Vida</strong></a></p>
-      <p class="card-text"><small class="text-muted">Actualizado en Agosto del 2018</small></p>
+          <i class="material-icons">mail</i>
+          E-mail
+          <span class="navbar-brand">
+          <img src="img/logos/.png" width="30" height="30" alt="">
+        </span>
+        </li></a>
+        <a href="tel://+50233120413" class=""><li class="list-group-item justify-content-between align-items-center  ">
+          <i class="material-icons">phonelink_ring</i>
+          Llamar
+          <span class="navbar-brand">
+          <img src="img/logos/.png" width="30" height="30" alt="">
+        </span>
+
+        </li></a>
+      </ul>
 </div>
       <br>
       <p class="card-text"><small class="text-muted">Actualizado en Agosto del 2018</small></p>
