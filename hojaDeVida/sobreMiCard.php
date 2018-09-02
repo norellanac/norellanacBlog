@@ -3,7 +3,7 @@
   <div class="collapse# text-center" id="nery">
   <div class="card">
   <div class="card-header">
-    Nery Alexis Oellana
+    <a href="http://norellana.hol.es/">Nery Alexis Orellana</a>
   </div>
   <div class="card-group" id="">
 <!--      paneles    -->  
@@ -12,7 +12,7 @@
     <div class="card-body">
       <h5 class="card-title">Estudios</h5>
         <b>ESTUDIOS SUPERIORES</b><br>Informática | Sistemas<br />
-Nivel Alcanzado: Estudiante Universitario (3er Año)<br />
+Nivel Alcanzado: Estudiante Universitario (4to. Año)<br />
 Especialización: Ingeniería en Sistema de Información.<br />
 Guatemala / Universidad Mariano Gálvez de Guatemala / a la fecha. <br><br><br>
 <b>ESTUDIOS SECUNDARIOS </b>
@@ -25,7 +25,7 @@ Guatemala / Colegio La Salle, La Antigua Guatemala / 2011</p>
 <div class="card " id="">
     <img class=" img-fluid img-thumbnail " src="https://scontent.fgua2-1.fna.fbcdn.net/v/t1.0-9/33662647_1894097543936462_1588295484634562560_n.jpg?_nc_cat=0&oh=d87f1aa85ee97689e28e88390dee0c6b&oe=5BFC2F4F" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Nery Alexis Orellana Cuy</h5>
+      <a href="norellanacCv.pdf" target="_blank">Descargar en PDF <i class="material-icons">picture_as_pdf</i></a>
     </div>
   </div>
   

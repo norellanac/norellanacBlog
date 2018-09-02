@@ -19,9 +19,9 @@ Experiencia
 
 <?php 
 
-//include 'sobreMiCard.php';
+include 'sobreMiCard.php';
 include 'cardHabilidades.php';
 include 'cardExperiencia.php';
-include 'sobreMiCard.php';
-//include 'portafolio/body.php';
+
+include 'portafolio/body.php';
  ?>

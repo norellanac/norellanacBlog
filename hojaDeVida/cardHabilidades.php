@@ -24,8 +24,8 @@
   </h5>
       <p>
         <span class="p-1">* Balanceo De Carga  con Nginx <br></span>
-        <span class="p-1">* Virrtualización Con Docker <br></span>
-        <span class="p-1">* Instalacion De Kubernetes <br></span>
+        <span class="p-1">* Virtualización Con Docker <br></span>
+        <span class="p-1">* Instalación De Kubernetes <br></span>
       </p>
     <div class="row text-center">
       <div class="col-12 p-1">
@@ -147,7 +147,10 @@
           <img src="img/logos/html5-css3.png" width="30" height="30" alt="">
         </span>
   </h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <p>
+        <span class="p-1">* Maquetado De Sitios Estáticos<br></span>
+        <span class="p-1">* Implementación De Librerías CSS S en aplicaciones web dinamicas<br></span>
+      </p>
     <div class="row text-center">
       <div class="col-12 p-1">
         <div class="progress">
