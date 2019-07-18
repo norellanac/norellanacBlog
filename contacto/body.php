@@ -19,7 +19,7 @@
   </div>  
 <!--  ++++++++++++++++++++++++-->
 <div class="card " id="">
-    <img class=" img-fluid img-thumbnail " src="https://scontent.fgua2-1.fna.fbcdn.net/v/t1.0-9/33662647_1894097543936462_1588295484634562560_n.jpg?_nc_cat=0&oh=d87f1aa85ee97689e28e88390dee0c6b&oe=5BFC2F4F" alt="Card image cap">
+    <img class=" img-fluid img-thumbnail " src="https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-9/58374436_2381846371828241_914292872532983808_n.jpg?_nc_cat=103&_nc_oc=AQn7onLIJNYA94dswEZuQxePCpr8YCXJ6WeA4hvtNvxtQgeflBad5vliiGv9tgN2Pq0&_nc_ht=scontent-mia3-2.xx&oh=a1e63f7d973accf4c10494fc1fc773e6&oe=5DB1C8AD" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Nery Alexis Orellana Cuy</h5>
     </div>
