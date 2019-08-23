@@ -4,27 +4,41 @@ Sitios Web
 </button>
 </div>-->
 
-
+<style media="screen">
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+.embed-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
 <div class="content-fluid" name="Panel1">
   <div class=" text-center" id="paginasWeb">
     <div class="card">
       <div class="card-header">
-        Proyectos Universitarios
+        Proyectos Personales
       </div>
       <div class="card-group" id="">
         <div class="card " id="">
-          <img class=" img-fluid img-thumbnail " src="img/aguaDulceVida.png" alt="Card image cap">
+          <img class=" img-fluid img-thumbnail" src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">Purificadora Agua Dulce Vida</h5>
-            <p><a class="btn btn-dark" href="http://aguadulcevida.hol.es"> Ver Sitio</a><br />
+            <h5 class="card-title">QuéCompraste.website</h5>
+            <p><a class="btn btn-dark" href="http://quecompraste.website/"> Ver Sitio</a><br />
               <p class="card-text"><small class="text-muted">Actualizado en Agosto del 2018</small></p>
             </div>
           </div>
           <div class="card">
-            <img class=" img-fluid img-thumbnail" src="img/preguntadevs.png" alt="Card image cap">
+            <img class=" img-fluid img-thumbnail" src="https://anthoncode.com/wp-content/uploads/2019/01/laravel-logo-png.png" alt="Card image cap">
             <div class="card-body">
-              <h5 class="card-title">PreguntaDevs</h5>
-              <p><a class="btn btn-dark" href="http://umgproyectos.hol.es/"> Ver Sitio</a><br />
+              <h5 class="card-title">QuéCompraste.website</h5>
+              <p><a class="btn btn-dark" href="http://quecompraste.website/"> Ver Sitio</a><br />
                 <p class="card-text"><small class="text-muted">Actualizado en Agosto del 2018</small></p>
               </div>
             </div>

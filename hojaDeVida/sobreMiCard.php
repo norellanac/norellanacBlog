@@ -12,7 +12,7 @@
           <div class="card-body">
             <h5 class="card-title">Estudios</h5>
             <b>ESTUDIOS SUPERIORES</b><br>Informática | Sistemas<br />
-            Nivel Alcanzado: Estudiante Universitario (4to. Año)<br />
+            Nivel Alcanzado: Estudiante Universitario <br> (10mo Semestre)<br />
             Especialización: Ingeniería en Sistema de Información.<br />
             Guatemala / Universidad Mariano Gálvez de Guatemala / a la fecha. <br><br><br>
             <b>ESTUDIOS SECUNDARIOS </b>
@@ -59,18 +59,15 @@
                   </span>
                 </li></a>
                 <a href="mailto:alexis_oc@yahoo.es" target="_blank"><li class="list-group-item justify-content-between align-items-center">
-
-                  <i class="material-icons">mail</i>
-                  E-mail
+                  alexis_oc@yahoo.es
                   <span class="navbar-brand">
-                    <img src="img/logos/.png" width="30" height="30" alt="">
+                    <img src="https://image.flaticon.com/icons/svg/254/254018.svg" width="30" height="30" alt="">
                   </span>
                 </li></a>
                 <a href="tel://+50233120413" class=""><li class="list-group-item justify-content-between align-items-center  ">
-                  <i class="material-icons">phonelink_ring</i>
-                  Llamar
+                  +502 33120413
                   <span class="navbar-brand">
-                    <img src="img/logos/.png" width="30" height="30" alt="">
+                    <img src="https://image.flaticon.com/icons/svg/254/254080.svg" width="30" height="30" alt="">
                   </span>
 
                 </li></a>

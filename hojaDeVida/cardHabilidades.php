@@ -23,7 +23,7 @@
               </span>
             </h5>
             <p>
-              <span class="p-1">* Balanceo De Carga  con Nginx <br></span>
+              <span class="p-1">* Instalación y configuracion de Apache  <br></span>
               <span class="p-1">* Virtualización Con Docker <br></span>
               <span class="p-1">* Instalación De Kubernetes <br></span>
             </p>
@@ -44,7 +44,7 @@
             <div class="row text-center">
               <div class="col-12 p-1">
                 <div class="progress">
-                  <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" style="width: 70%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"><b>Nginx</b></div>
+                  <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" style="width: 70%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"><b>Apache</b></div>
                 </div>
               </div>
             </div>
@@ -149,7 +149,7 @@
             </h5>
             <p>
               <span class="p-1">* Maquetado De Sitios Estáticos<br></span>
-              <span class="p-1">* Implementación De Librerías CSS S en aplicaciones web dinamicas<br></span>
+              <span class="p-1">* Implementación De Librerías CSS  en aplicaciónes web dinamicas<br></span>
             </p>
             <div class="row text-center">
               <div class="col-12 p-1">
