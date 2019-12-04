@@ -23,7 +23,7 @@
           </div>
           <!--  ++++++++++++++++++++++++-->
           <div class="card " id="">
-            <img class=" img-fluid img-thumbnail " src="https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-9/58374436_2381846371828241_914292872532983808_n.jpg?_nc_cat=103&_nc_oc=AQn7onLIJNYA94dswEZuQxePCpr8YCXJ6WeA4hvtNvxtQgeflBad5vliiGv9tgN2Pq0&_nc_ht=scontent-mia3-2.xx&oh=a1e63f7d973accf4c10494fc1fc773e6&oe=5DB1C8AD" alt="Card image cap">
+            <img class=" img-fluid img-thumbnail " src="https://scontent.fgua1-1.fna.fbcdn.net/v/t1.0-9/p960x960/58381346_2381846368494908_8865519789863337984_o.jpg?_nc_cat=104&_nc_ohc=MzopWnZeaPoAQlX-ZgI59ietpfUaa7yPqQaUSRIJdjzlflBsAnn6siYiA&_nc_ht=scontent.fgua1-1.fna&oh=6e2464e3bf789bd6b8dcd9d76f7e2216&oe=5E89F1FA" alt="Nery Orellana">
             <div class="card-body">
               <a href="norellanacCv.pdf" target="_blank">Descargar en PDF <i class="material-icons">picture_as_pdf</i></a>
             </div>
