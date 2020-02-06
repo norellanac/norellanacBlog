@@ -43,9 +43,9 @@ Sitios Web
               </div>
             </div>
             <div class="card">
-              <img class=" img-fluid img-thumbnail" src="img/expresionesRegularesOnline.png" alt="Card image cap">
-              <div class="card-body"><h5 class="card-title">Expresiones Regulares Online</h5>
-                <p><a class="btn btn-dark " href="http://umgproyectos.atspace.eu/ExpReg/index.php"> Ver Sitio</a><br />
+              <img class=" img-fluid img-thumbnail" src="img/Merco|Papeles|Electronics.png" alt="Card image cap">
+              <div class="card-body"><h5 class="card-title">Merco | Papeles| Electronics</h5>
+                <p><a class="btn btn-dark " href="http://www.mercogt.com/"> Ver Sitio</a><br />
                   <p class="card-text"><small class="text-muted">Actualizado en Agosto del 2018</small></p>
                 </div>
               </div>

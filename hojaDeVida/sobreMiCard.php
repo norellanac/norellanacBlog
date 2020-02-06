@@ -12,7 +12,7 @@
           <div class="card-body">
             <h5 class="card-title">Estudios</h5>
             <b>ESTUDIOS SUPERIORES</b><br>Informática | Sistemas<br />
-            Nivel Alcanzado: Estudiante Universitario <br> (10mo Semestre)<br />
+            Nivel Alcanzado: Estudiante Universitario <br> Cierre de pénsum<br />
             Especialización: Ingeniería en Sistema de Información.<br />
             Guatemala / Universidad Mariano Gálvez de Guatemala / a la fecha. <br><br><br>
             <b>ESTUDIOS SECUNDARIOS </b>

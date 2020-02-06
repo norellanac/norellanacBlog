@@ -60,7 +60,7 @@
           <i class="material-icons">mail</i>
           E-mail
           <span class="navbar-brand">
-          <img src="img/logos/.png" width="30" height="30" alt="">
+          <img src="img/logos/254080.svg" width="30" height="30" alt="">
         </span>
         </li></a>
         <a href="tel://+50233120413" class=""><li class="list-group-item justify-content-between align-items-center  ">
