@@ -10,7 +10,7 @@
         <div class="card " id="">
           <div class="card-body">
             <h5 class="card-title">10x Informatica</h5>
-            <p><span class="text-primary"><b>Agente de Soporte</b></span><br />
+            <p><span class="text-primary"><b>Desarollador Web</b></span><br />
               Lugar de Trabajo: 10x Informatica.<br />
               Área de la Empresa: Tecnología.<br />
               Nov-2018 / a la fecha<br />
@@ -39,7 +39,7 @@
             <!--  ++++++++++++++++++++++++-->
             <div class="card " id="">
               <div class="card-body">
-                <h5 class="card-title">Comcel de Guatemala S.A.</h5>
+                <h5 class="card-title">Tigo Guatemala/h5>
                 <p><span class="text-primary"><b>Agente de Soporte</b></span><br />
                   Lugar de Trabajo: Comcel de Guatemala S.A .<br />
                   Área de la Empresa: Telecomunicaciones.<br />
