@@ -34,7 +34,7 @@
             <div class="card-body">
               <h5 class="card-title"></h5>
               <ul class="list-group text-center">
-                <a href="https://github.com/naorellana" target="_blank"><li class="list-group-item justify-content-between align-items-center">
+                <a href="https://github.com/norellanac" target="_blank"><li class="list-group-item justify-content-between align-items-center">
                   Github
                   <span class="navbar-brand">
                     <img src="img/logos/github.png" width="30" height="30" alt="">
